@@ -31,10 +31,10 @@ de abordagem.
 
 ## Sumário
 
-* [1. Introdução](https://github.com/elainefabiola/datalake/blob/main/README.md#1-introducao)
-  * [1.1 Motivação](https://github.com/elainefabiola/datalake/blob/main/README.md#11-motiva%C3%A7%C3%A3o)
-  * [1.2 Objetivos](https://github.com/elainefabiola/datalake/blob/main/README.md#12-objetivo)
-  * [1.3 Justificativa](https://github.com/elainefabiola/datalake/blob/main/README.md#13-justificativa)
+* [1. Introdução](https://github.com/cristianofortuna/datalake/blob/main/README.md#1-introducao)
+  * [1.1 Motivação](https://github.com/cristianofortuna/datalake/blob/main/README.md#11-motiva%C3%A7%C3%A3o)
+  * [1.2 Objetivos](https://github.com/cristianofortuna/datalake/blob/main/README.md#12-objetivo)
+  * [1.3 Justificativa](https://github.com/cristianofortuna/datalake/blob/main/README.md#13-justificativa)
   * [1.4 Estrutura do Trabalho](https://github.com/elainefabiola/datalake/blob/main/README.md#14-estrutura-do-trabalho)
 * [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#2-governan%C3%A7a-de-dados)
   * [2.1 Como promover a Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#21-como-promover-a-governan%C3%A7a-de-dados)
